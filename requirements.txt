@@ -1,3 +1,0 @@
-google-genai
-pytest
-python-dotenv
